@@ -1,4 +1,4 @@
 # Table of Contents
 
 ## Networking
-* [IP - Internet Protocol](#internet-protocol)
+- [IP - Internet Protocol](#internet-protocol)
